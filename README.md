@@ -11,4 +11,4 @@ University C++ project that implements a template FIFO queue and tests it.
 From Command Line, in the same directory as [Makefile](queue/Makefile), run command `make`.
 
 ## Run
-From Command Line, in the same directory as the project build, run the executable file `main`.
+From Command Line, in the same directory as the project build, run command `main` to run the executable file `main.exe`.
