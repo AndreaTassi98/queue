@@ -7,5 +7,8 @@ University C++ project that implements a template FIFO queue and tests it.
 ## Report
 [Relazione Progetto queue](queue/Relazione%20Progetto%20queue.docx)
 
-## Building
+## Build
 From Command Line, in the same directory as [Makefile](queue/Makefile), run command `make`.
+
+## Run
+From Command Line, in the same directory as the project build, run the executable file `main`.
